@@ -1,14 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Transactions;
-using Microsoft.AspNetCore.Blazor;
+﻿using Microsoft.AspNetCore.Blazor;
 using Microsoft.AspNetCore.Blazor.Components;
-using Microsoft.AspNetCore.Blazor.Layouts;
-using Microsoft.AspNetCore.Blazor.RenderTree;
 using Microsoft.JSInterop;
+using System.Threading.Tasks;
 
 namespace BlazorFiddle.Blazor
 {
